@@ -1,0 +1,44 @@
+.xyx {
+  background-color: #ebe9e6;
+}
+.new-button1 {
+  padding: 6px;
+  display: flex;
+  margin: 0 auto;
+  background: black;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+}
+@keyframes popUp {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.image-animation {
+  animation: popUp 3s infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.icon-animation {
+  animation: rotate 2s linear infinite;
+  font-size: 56px;
+}
+.xyz {
+  text-decoration: none;
+  color: aliceblue;
+}

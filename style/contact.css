@@ -1,0 +1,232 @@
+.contact-all {
+  /* max-width: 1532px; */
+  background-color: black;
+  /* height: 871px; */
+}
+.container.contact-all-text {
+  max-width: 1124px;
+  /* padding-top: 110px; */
+}
+.nail-banner-img {
+  height: 664px;
+  max-width: 100%;
+}
+.contact-all-heading {
+  color: #121010;
+  padding-top: 45px;
+}
+.input-paragrah {
+  color: white;
+  font-size: 54px;
+}
+.label-input-1 {
+  /* margin-right: 149px; */
+  color: #121010;
+  background-color: #c89313;
+}
+.input-text-all {
+  background-color: #c89313;
+  height: auto;
+  padding-left: 33px;
+  padding-right: 33px;
+  max-width: 100%;
+}
+.input-placeholder {
+  height: 43px;
+  background-color: #c89313;
+  border: 1px solid;
+  border-radius: 6px;
+  width: 49%;
+}
+.email-input-text {
+  color: black;
+}
+.input-placeholder-email {
+  height: 49px;
+  background-color: #c89313;
+  border: 1px solid;
+  border-radius: 6px;
+  width: 100%;
+}
+.input-placeholder-email-1 {
+  height: 119px;
+  width: 100%;
+  background-color: #c89313;
+  border: 1px solid;
+  border-radius: 6px;
+}
+.message-button {
+  background-color: #c89313;
+  /* height: 47px; */
+  margin-top: 20px;
+  width: 100%;
+  box-shadow: 0px 0px 13px 2px;
+  border: none;
+  color: black;
+}
+.message-button:hover {
+  background-color: white;
+}
+.contact-all {
+  background-color: black;
+}
+.container.contact-all-text {
+  max-width: 1124px;
+}
+.nail-banner-img {
+  height: 664px;
+  max-width: 100%;
+}
+.contact-all-heading {
+  color: #121010;
+  padding-top: 45px;
+}
+.input-paragrah {
+  color: white;
+  font-size: 54px;
+}
+.label-input-1 {
+  /* margin-right: 149px; */
+  color: #121010;
+  background-color: #c89313;
+}
+.label-input-2 {
+  color: #121010;
+  margin-left: 238px;
+  background-color: #c89313;
+}
+.input-text-all {
+  background-color: #c89313;
+  height: auto;
+  padding-left: 33px;
+  padding-right: 33px;
+  max-width: 100%;
+}
+.input-placeholder {
+  height: 43px;
+  background-color: #c89313;
+  border: 1px solid;
+  border-radius: 6px;
+  width: 100%;
+}
+.email-input-text {
+  color: black;
+}
+.input-placeholder-email {
+  height: 49px;
+  background-color: #c89313;
+  border: 1px solid;
+  border-radius: 6px;
+  width: 100%;
+}
+.input-placeholder-email-1 {
+  height: 119px;
+  width: 100%;
+  background-color: #c89313;
+  border: 1px solid;
+  border-radius: 6px;
+}
+.message-button {
+  background-color: #c89313;
+  height: 47px;
+  margin-top: 20px;
+  box-shadow: 0px 0px 13px 2px;
+  border: none;
+  color: black;
+}
+.message-button:hover {
+  background-color: white;
+}
+.iframe-0 {
+  width: 100%;
+  height: 308px;
+}
+.iframe-input {
+  max-width: 1532px;
+}
+.iframe-0 {
+  width: 1518px;
+  height: 443px;
+}
+.row.text-row {
+  padding: 5em 3em 3em 4em;
+}
+.text-location {
+  background-color: black;
+  width: 52px;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: 51px;
+  height: 50px;
+}
+.text-location i {
+  color: white;
+  /* background-color: black; */
+  font-size: 22px;
+  padding-top: 15px;
+}
+.fa-location-dot:before,
+.fa-map-marker-alt:before {
+  content: "\f3c5";
+}
+
+.location-iframe {
+  height: auto;
+  background-color: #c89313;
+  margin-top: -7rem;
+}
+.location-iframe-text {
+  background-color: black;
+}
+.location-iframe-9 {
+  margin: 0 auto;
+  max-width: 1042px;
+}
+.location {
+  position: relative;
+}
+.text-location i {
+  color: white;
+  font-size: 22px;
+  padding-top: 15px;
+}
+.text-location {
+  background-color: black;
+  width: 52px;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: 45px;
+  height: 50px;
+}
+.heading-text {
+  text-align: center;
+  margin-top: 69px;
+  font-size: 60px;
+  color: white;
+  font-family: math;
+}
+.facebook-img {
+  width: 47px;
+  height: 41px;
+}
+.instagram-img {
+  width: 70px;
+  height: 41px;
+}
+.icons-social {
+  gap: 25px;
+  display: flex;
+  justify-content: center;
+}
+.facebook-img:hover {
+  scale: 0.9;
+}
+.instagram-img:hover {
+  scale: 0.9;
+}
+
+@media (max-width: 375.98px) {
+  .label-input-2 {
+    margin-left: 102px;
+  }
+}
